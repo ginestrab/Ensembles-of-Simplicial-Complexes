@@ -26,7 +26,7 @@
 #include<math.h>
 #include<time.h>
 
-#define N 1000
+#define N 10000
 #define m 1
 #define gamma2 2.3
 /* #define lambda 10 */

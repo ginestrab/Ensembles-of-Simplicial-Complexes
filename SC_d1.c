@@ -26,7 +26,7 @@
 #include<math.h>
 #include<time.h>
 
-#define N 10000
+#define N 1000
 #define m 1
 #define gamma2 2.3
 /* #define lambda 10 */
@@ -148,7 +148,7 @@ int main(int argc, char** argv){
 	for (i=0;i<N;i++){
 		for(j=0;j<N;j++){
 			if(a[i][j]==1){
-				fprintf(gp,'%d %d\n',i,j)
+				fprintf(gp,"%d %d\n",i,j);
 			}
 		}
 

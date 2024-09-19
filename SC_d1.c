@@ -1,5 +1,6 @@
 /**************************************************************************************************
- * If you use this code, please cite G. Bianconi and O.T. Courtney
+ * If you use this code, please cite  
+ * O.T. Courtney and G. Bianconi 
  * "Generalized network structures: the configuration model and the canonical ensemble of
  * simplicial complexes"
  * Phys. Rev. E 93, 062311 (2016)

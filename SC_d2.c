@@ -182,7 +182,7 @@ int main(int argc, char** argv){
 					kgi[i2]++;
 					kg[i3]--;
 					kgi[i3]++;
-`				}
+				}
 			}
 
 		}
